@@ -129,6 +129,7 @@
 - [Manu Sunny](https://github.com/manupsunny/ama) - Indian. ThoughtWorker. Backend Java Developer. Android enthusiast.
 - [Ken Wheeler](https://github.com/kenwheeler/ama) - Professional American. Manchild.
 - [Helen V. Holmes](https://github.com/helenvholmes/ama) - Freelance designer and UI engineer.
+- [Les Orchard](https://github.com/lmorchard/ama) - I am a {web,mad,computer} scientist; {tech,scifi} writer; home{brew,roast}er; mozillian.
 
 #### Ask these organizations anything!
 
